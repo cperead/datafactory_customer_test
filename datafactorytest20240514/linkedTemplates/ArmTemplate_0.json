@@ -92,7 +92,8 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
-						"fileName": "MyNewOuptput.json"
+						"fileName": "MyNewOuptput.json",
+						"fileSystem": "ingest"
 					}
 				},
 				"schema": {}
